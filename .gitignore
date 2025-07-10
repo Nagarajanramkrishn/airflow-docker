@@ -1,0 +1,12 @@
+# Airflow logs
+logs/
+config/
+*.log
+
+# Byte-compiled files
+__pycache__/
+*.pyc
+
+
+#environment variables
+.env
