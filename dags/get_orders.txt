@@ -1,2 +1,19 @@
 order_id,date,product_name,quantity
-"('ORD001', datetime.date(2024, 6, 1), 'Keyboard', 5)","('ORD002', datetime.date(2024, 6, 1), 'Mouse', 10)","('ORD003', datetime.date(2024, 6, 2), 'Monitor', 3)","('ORD004', datetime.date(2024, 6, 2), 'Laptop', 2)","('ORD005', datetime.date(2024, 6, 3), 'USB Cable', 15)","('ORD006', datetime.date(2024, 6, 3), 'Webcam', 4)","('ORD007', datetime.date(2024, 6, 4), 'Headset', 6)","('ORD008', datetime.date(2024, 6, 4), 'Mousepad', 12)","('ORD009', datetime.date(2024, 6, 5), 'Charger', 8)","('ORD010', datetime.date(2024, 6, 5), 'Tablet', 1)","('ORD011', datetime.date(2024, 6, 6), 'Smartphone', 7)","('ORD012', datetime.date(2024, 6, 6), 'Speaker', 9)","('ORD013', datetime.date(2024, 6, 7), 'Printer', 2)","('ORD014', datetime.date(2024, 6, 7), 'Scanner', 1)","('ORD015', datetime.date(2024, 6, 8), 'Desk Lamp', 11)","('ORD016', datetime.date(2024, 6, 8), 'Router', 3)","('ORD017', datetime.date(2024, 6, 9), 'Switch', 5)","('ORD018', datetime.date(2024, 6, 9), 'Projector', 2)"
+ORD001,2024-06-01,Keyboard,5
+ORD002,2024-06-01,Mouse,10
+ORD003,2024-06-02,Monitor,3
+ORD004,2024-06-02,Laptop,2
+ORD005,2024-06-03,USB Cable,15
+ORD006,2024-06-03,Webcam,4
+ORD007,2024-06-04,Headset,6
+ORD008,2024-06-04,Mousepad,12
+ORD009,2024-06-05,Charger,8
+ORD010,2024-06-05,Tablet,1
+ORD011,2024-06-06,Smartphone,7
+ORD012,2024-06-06,Speaker,9
+ORD013,2024-06-07,Printer,2
+ORD014,2024-06-07,Scanner,1
+ORD015,2024-06-08,Desk Lamp,11
+ORD016,2024-06-08,Router,3
+ORD017,2024-06-09,Switch,5
+ORD018,2024-06-09,Projector,2
